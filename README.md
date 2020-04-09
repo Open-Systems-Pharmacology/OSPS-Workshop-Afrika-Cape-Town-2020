@@ -1,4 +1,4 @@
-# OSP Suite Workshop Cape Town April 6th 2020
+# OSP Suite Workshop Cape Town postponed to February 2021
 Open source PBPK modelling with the OSPSuite (PK-Sim® & MoBi®) for MIDD
 
 # Workshop target audience
@@ -38,7 +38,7 @@ Time|Topic
 16:30 - 17:00 |• Wrap up and Q&A 
 
 # Date and Duration
-Monday, **April 6th 2020**: 8:30AM - 5PM
+Date to be defined, Time: 8:30AM - 5PM
 
 # Registration
 * Students: 25 $ / R400
